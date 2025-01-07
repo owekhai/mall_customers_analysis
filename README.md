@@ -36,11 +36,10 @@ The key data points used for analysis include:
 
 ###  EDA (Exploratory Data Analysis)
  is performed on the dataset using visualization techniques to gain insights about sales trends. These visualizations include:
-- Relplot (scatter plot matrix): Showing age with highest income.
-- Pie charts: Showing the gender that patronized most
+- Relplot (scatter plot matrix): Showing the gender that patronized most
+- Pie charts:Showing the gender counts
 - Bar plots: Showing gender with highest income.
-- Count plots: Showing the Spending_Score.
-
+- Dis plots: Showing gender count.
 ### Recommendation
 
 1. Targeted Regional Marketing:
