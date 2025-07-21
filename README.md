@@ -53,4 +53,11 @@ The key data points used for analysis include:
 
 ### Recommendations
 
+### Limitations
+1. **Lack of detailed customer feedback data**: Customer feedback would significantly enhance understanding of the rating distributions and offer targeted ways to improve customer satisfaction.
+
+2. **Missing values**: More information would have been gotten from relevant context with missing values such as Annual income, Gender, Spending score and Age.
+
+3. **Poor documentation**: Important information such as Date was not include which is very essential for analysis
+
 ### Conclusion
