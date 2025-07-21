@@ -7,7 +7,7 @@
 - [Data Sources](#data-sources)
 - [Tools](#tools)
 - [Data Cleaning](#data-cleaning)
-- [EDA](# EDA)
+- [EDA](#EDA)
 - [Findings](#findings)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
