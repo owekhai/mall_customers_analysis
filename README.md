@@ -52,6 +52,15 @@ The key data points used for analysis include:
 * Despite female having the highest revenue the male largely supersede in the area of Spending Score.
 
 ### Recommendations
+1. **Provide excellent customers service**: Train staff to be helpful and friendly, creating a positive experience for shopping.
+
+2. **Create a welcoming atmosphere**: Ensure cleanliness, good lightning and comfortable seating. 
+
+3. **Leverage technology**: Implement user-friendly websites and mobile apps for navigation, promotion, and online shopping options. 
+
+4. **Implement loyalty programs**: Reward repeat customers and incentivize them to visit more frequently.
+
+5. **Better documentation**: There should be proper documentation on column labels and also includes important variables(columns) such as date, time, product, price unit etc.
 
 ### Limitations
 1. **Lack of detailed customer feedback data**: Customer feedback would significantly enhance understanding of the rating distributions and offer targeted ways to improve customer satisfaction.
@@ -61,3 +70,4 @@ The key data points used for analysis include:
 3. **Poor documentation**: Important information such as Date was not include which is very essential for analysis
 
 ### Conclusion
+By implementing these strategies, the shopping mall can create a more engaging and profitable environment for both tenants and customers.
